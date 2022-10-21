@@ -88,7 +88,7 @@ Children:
     - Name: Path
       Type: BaseDataVariableType
       DataType: ResourceUri
-      Value: "ns=7;%PROJECTDIR%/background_anima.png"
+      Value: "file:///C:/Users/PZhao5/Documents/Rockwell Automation/FactoryTalk Optix/Projects/TestProject2/ProjectFiles/background_outrun.png"
     - Name: Width
       Type: BaseVariableType
       DataType: Size
